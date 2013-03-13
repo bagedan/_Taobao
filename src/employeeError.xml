@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name>ddvip</name>
+		<sex>m</sex>
+		<age>29</age>
+		<hoby>
+			<hoby1>basketball</hoby1>
+		</hoby>
+	</employee>
+</employees>
